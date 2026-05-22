@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env.local
+.env.dev
+.env.test
+.env.*.local
+docker-compose.yaml
+README.md
+/var/
+/vendor/
+*.log
+.phpunit.cache/
