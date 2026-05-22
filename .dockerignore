@@ -7,6 +7,5 @@
 docker-compose.yaml
 README.md
 /var/
-/vendor/
 *.log
 .phpunit.cache/
